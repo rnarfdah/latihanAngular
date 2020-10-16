@@ -1,0 +1,8 @@
+.tombol {
+  background-color: greenyellow;
+  border: none;
+  color: black;
+  padding: 10px 32px;
+  margin-right: 10px;
+  cursor: pointer;
+}
